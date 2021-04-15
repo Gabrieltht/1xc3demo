@@ -62,7 +62,7 @@ e
                                count[i],
                                (((float) count[i]) / strlen(buffer)) * 100);
   }
-<<<<<<< HEAD
+
   // Output the number of other characters
   printf("%-10s%-15d%-15.2f\n","Other",
                               other,
