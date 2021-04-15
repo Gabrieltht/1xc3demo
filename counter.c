@@ -48,7 +48,7 @@ e
   for (i = 0; i < strlen(buffer); i++) {
     curchar = toupper(buffer[i]);
     if (curchar >= 65 && curchar <= 90) count[curchar - 65]++;
-<<<<<<< HEAD
+
     else other++;
 =======
     if (curchar == ' ') spaces++;
