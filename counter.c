@@ -15,8 +15,8 @@ int main()
 {
   char buffer[1024], input, curchar;
   int i = 0, count[COUNT_SIZE];
-  int other = 0;
-=======
+ int other = 0;
+
 #define BUFFER_SIZE 1024
 
 int max(int count[]);
