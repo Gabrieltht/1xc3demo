@@ -51,7 +51,6 @@ e
 
     else other++;
     if (curchar == ' ') spaces++;
->>>>>>> origin/feature
   }
 
   // Create the letter analysis table
