@@ -50,7 +50,6 @@ e
     if (curchar >= 65 && curchar <= 90) count[curchar - 65]++;
 
     else other++;
-=======
     if (curchar == ' ') spaces++;
 >>>>>>> origin/feature
   }
