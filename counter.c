@@ -9,7 +9,6 @@
 #include <string.h>
 #include <ctype.h>
 
-<<<<<<< HEAD
 #define COUNT_SIZE 26
 
 int main()
