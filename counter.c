@@ -93,7 +93,6 @@ e
 
   return 0;
 }
-=======
   printf("\nTotal spaces: %d\n", spaces);
 
 
