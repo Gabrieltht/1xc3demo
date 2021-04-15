@@ -27,7 +27,7 @@ int main()
   char buffer[BUFFER_SIZE], input, curchar;
   int i = 0, count[26];
   int spaces = 0;
->>>>>>> origin/feature
+e
 
   // request and read in the string from the user
   printf("Enter text for analysis: ");
